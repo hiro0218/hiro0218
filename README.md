@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![hiro's github stats](https://github-readme-stats.vercel.app/api?username=hiro0218&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **hiro0218/hiro0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
