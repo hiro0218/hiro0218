@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![hiro's github stats](https://github-readme-stats.vercel.app/api?username=hiro0218&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/hiro0218">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiro0218&count_private=true" /> 
+</a>
+<a href="https://github.com/hiro0218">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro0218" />
+</a>
 
 
 <!--
