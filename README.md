@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<a href="https://github.com/hiro0218">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiro0218&count_private=true&show_icons=true" /> 
-</a>
-<a href="https://github.com/hiro0218">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro0218&layout=compact" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiro0218&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro0218&layout=compact)
+
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiro0218&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiro0218&theme=github)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiro0218&theme=github&utcOffset=+9)
+
 
 
 <!--
